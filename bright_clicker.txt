@@ -36,7 +36,13 @@ Buildings
 		on click:anim glow
 	*sweatshop|sweatshops
 		name:Sweatshop|Sweatshops
-		desc:A tiny cramped hut in which schoolchildren are forced to make donuts with blood, sweat, and tears.<//><b>Effect:</b><.>Produces 1 donut everyone 10 seconds
+		desc:A tiny cramped hut in which schoolchildren are forced to make donuts with blood, sweat, and tears.<//><b>Effect:</b><.>Produces 1 donut everyone 10 seconds.
 		cost:15 donuts
 		on tick:yield 0.1 donut
 		unlocked
+
+	*classroom|classrooms
+		name:Classroom:Classrooms
+		desc:A class where children forcibly make donuts every lesson.<//><b>Effect:</b><.>Produces 1 donut every 2 seconds.
+		on tick:yield 0.5 donuts
+		req:100 donuts:earned
