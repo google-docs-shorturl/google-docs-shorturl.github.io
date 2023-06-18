@@ -53,7 +53,7 @@ Upgrades
 		name:Thiccer Donuts
 		desc:Donuts become so thicc they count as two.<//><b>Effect:</b><.>+1 donut/click
 		cost:100 donuts
-		passive:increase bunny yield of bunnyButton by 1
+		passive:increase donut yield of donutButton by 1
 		req:10 bunnies:earned
 	*lowerWorkingAge
 		name:Lower Working Age
