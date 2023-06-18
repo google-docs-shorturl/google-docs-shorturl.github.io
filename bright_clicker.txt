@@ -1,0 +1,24 @@
+Let's make a game!
+  name:Bright Clicker
+  by:Rufus
+  desc:Click the donut to earn donuts, then use your donuts to put schoolchildren to work making more donuts
+  created:18/06/2023
+  version:1
+
+Settings
+  background:https://rosebay-h.schools.nsw.gov.au/content/dam/doe/sws/schools/r/rosebay-h/images/pages/community/IMG_7116.JPG.thumb.1280.1280.jpg
+  building cost increase:110%
+  building cost refund:40%
+
+  Buttons
+  	*bunnyButton
+  		name:Make a donut
+  		desc:Click this fat donut to get more donuts for Melinda to eat!
+  		on click:anim icon wobble
+  		on click:yield 1 donut
+    	icon:https://www.krispykreme.ie/media/catalog/product/m/e/menu-images-templates-menu-singles-600x600px-og.png
+  		no text
+  		class:bigButton hasFlares
+  		icon class:shadowed
+  		tooltip origin:bottom
+  		tooltip class:red
