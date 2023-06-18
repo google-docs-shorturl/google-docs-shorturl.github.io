@@ -45,4 +45,5 @@ Buildings
 		name:Classroom|Classrooms
 		desc:A class where children forcibly make donuts every lesson.<//><b>Effect:</b><.>Produces 1 donut every 2 seconds.
 		on tick:yield 0.5 donuts
+		cost:115 donuts
 		req:100 donuts:earned
