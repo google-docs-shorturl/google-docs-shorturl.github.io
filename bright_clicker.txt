@@ -16,7 +16,7 @@ Buttons
 		desc:Click this fat donut to get more donuts for Melinda to eat!
 		on click:anim icon wobble
     on click:yield 1 donut
-  	icon:https://www.krispykreme.ie/media/catalog/product/m/e/menu-images-templates-menu-singles-600x600px-og.png
+  	icon:https://www.simpleimageresizer.com/_uploads/photos/c4501abe/menu-images-templates-menu-singles-600x600px-og_1_256x256.png
 		no text
 		class:bigButton hasFlares
 		icon class:shadowed
