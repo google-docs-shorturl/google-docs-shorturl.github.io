@@ -30,3 +30,13 @@ Buttons
     class:noBackground
     icon:https://www.simpleimageresizer.com/_uploads/photos/c4501abe/menu-images-templates-menu-singles-600x600px-og_48x48.png
     show earned
+
+Buildings
+	*TEMPLATE
+		on click:anim glow
+	*sweatshop|sweatshops
+		name:Sweatshop|Sweatshops
+		desc:A tiny cramped hut in which schoolchildren are forced to make donuts with blood, sweat, and tears.<//><b>Effect:</b><.>Produces 1 donut everyone 10 seconds
+		cost:15 donuts
+		on tick:yield 0.1 donut
+		unlocked
