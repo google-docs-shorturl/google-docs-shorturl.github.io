@@ -6,7 +6,7 @@ Let's make a game!
   version:1
 
 Settings
-  background:https://rosebay-h.schools.nsw.gov.au/content/dam/doe/sws/schools/r/rosebay-h/images/pages/community/IMG_7116.JPG.thumb.1280.1280.jpg
+  background:rbsc.jpg
   building cost increase:110%
   building cost refund:40%
 
