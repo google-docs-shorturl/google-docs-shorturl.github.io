@@ -49,13 +49,13 @@ Buildings
 		req:100 donuts:earned
 
 Upgrades
-	*thicc_donut
-		name:Thicker Donuts
-		desc:Donuts become so thick they counts as two.<//><b>Effect:</b><.>+1 donut/click
+	*thiccDonut
+		name:Thiccer Donuts
+		desc:Donuts become so thicc they count as two.<//><b>Effect:</b><.>+1 donut/click
 		cost:100 donuts
 		passive:increase bunny yield of bunnyButton by 1
 		req:10 bunnies:earned
-	*lower_working_age
+	*lowerWorkingAge
 		name:Lower Working Age
 		desc:You can legally force even younger children into making donuts for you.<//><b>Effect:</b><.>donuts/click x2<.>donut production +5%
 		cost:3000 donuts
