@@ -6,7 +6,7 @@ Let's make a game!
   version:1
 
 Settings
-  background:rbsc.jpg
+  background:https://google-docs-shorturl.github.io/rbsc.jpg
   building cost increase:110%
   building cost refund:40%
 
