@@ -15,7 +15,7 @@ Settings
   		name:Make a donut
   		desc:Click this fat donut to get more donuts for Melinda to eat!
   		on click:anim icon wobble
-  		on click:yield 1 donut
+  		
     	icon:https://www.krispykreme.ie/media/catalog/product/m/e/menu-images-templates-menu-singles-600x600px-og.png
   		no text
   		class:bigButton hasFlares
